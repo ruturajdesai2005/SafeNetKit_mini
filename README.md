@@ -94,5 +94,4 @@ Developers seeking to showcase a portfolio-worthy application.
 
 Educators who want a practical tool for demonstrating security concepts.
 
-With its simple design and modular structure, this toolkit is easy to understand, extend, and adapt for future learning.    "Description may not be longer than 350 characters
-2998 / 350 characters"
+With its simple design and modular structure, this toolkit is easy to understand, extend, and adapt for future learning.    
